@@ -1,0 +1,56 @@
+.navbar-nav.navbar-center {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+/*body {
+     background-color: #d04ca5; /* #D01065*/ /*
+}*/
+#noenter {
+    /*display: inline-block;*/
+    /*background-color: blue;*/
+}
+
+/*table {
+    margin: 5px;
+}*/
+
+#register {
+    margin: 5px;
+}
+#login {
+    margin: 5px;
+}
+
+#admin {
+    margin: 5px;
+}
+
+#review {
+    margin: 5px;
+}
+
+td {
+    vertical-align: top;
+}
+#newarticle{
+    margin: 5px;
+}
+
+header {
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;*/
+    text-align: center;
+}
+
+#home{
+    color: #119d15;
+}
+div {
+    margin: 0px;
+}
